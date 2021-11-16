@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/REACT_Portfolio/static/css/main.47d881c7.chunk.css",
+    "main.js": "/REACT_Portfolio/static/js/main.348b0018.chunk.js",
+    "main.js.map": "/REACT_Portfolio/static/js/main.348b0018.chunk.js.map",
+    "runtime-main.js": "/REACT_Portfolio/static/js/runtime-main.382dfd2a.js",
+    "runtime-main.js.map": "/REACT_Portfolio/static/js/runtime-main.382dfd2a.js.map",
+    "static/css/2.7a2fe4fe.chunk.css": "/REACT_Portfolio/static/css/2.7a2fe4fe.chunk.css",
+    "static/js/2.85e3592b.chunk.js": "/REACT_Portfolio/static/js/2.85e3592b.chunk.js",
+    "static/js/2.85e3592b.chunk.js.map": "/REACT_Portfolio/static/js/2.85e3592b.chunk.js.map",
+    "static/js/3.8b4bcd2b.chunk.js": "/REACT_Portfolio/static/js/3.8b4bcd2b.chunk.js",
+    "static/js/3.8b4bcd2b.chunk.js.map": "/REACT_Portfolio/static/js/3.8b4bcd2b.chunk.js.map",
+    "index.html": "/REACT_Portfolio/index.html",
+    "static/css/2.7a2fe4fe.chunk.css.map": "/REACT_Portfolio/static/css/2.7a2fe4fe.chunk.css.map",
+    "static/css/main.47d881c7.chunk.css.map": "/REACT_Portfolio/static/css/main.47d881c7.chunk.css.map",
+    "static/js/2.85e3592b.chunk.js.LICENSE.txt": "/REACT_Portfolio/static/js/2.85e3592b.chunk.js.LICENSE.txt",
+    "static/media/brendan.379f37a3.png": "/REACT_Portfolio/static/media/brendan.379f37a3.png",
+    "static/media/employeeTracker.5ef6e0c8.png": "/REACT_Portfolio/static/media/employeeTracker.5ef6e0c8.png",
+    "static/media/all.min.css": "/REACT_Portfolio/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/gifficult.4914cda0.png": "/REACT_Portfolio/static/media/gifficult.4914cda0.png",
+    "static/media/stoyo.f7463981.png": "/REACT_Portfolio/static/media/stoyo.f7463981.png",
+    "static/media/teamProfileGenerator.4cb16b0b.png": "/REACT_Portfolio/static/media/teamProfileGenerator.4cb16b0b.png",
+    "static/media/techBlog.57e3b99b.png": "/REACT_Portfolio/static/media/techBlog.57e3b99b.png",
+    "static/media/weatherApp.db5d713c.png": "/REACT_Portfolio/static/media/weatherApp.db5d713c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.382dfd2a.js",
+    "static/css/2.7a2fe4fe.chunk.css",
+    "static/js/2.85e3592b.chunk.js",
+    "static/css/main.47d881c7.chunk.css",
+    "static/js/main.348b0018.chunk.js"
+  ]
+}
