@@ -1,6 +1,7 @@
 # My React Portfolio
 
-Hello! This is a new portfolio built to showcase my projects completed in the U of MN Web DEV bootcamp using REACT. [Visit the deployed site here!](https://github.com/facebook/create-react-app)
+Hello! This is a new portfolio built to showcase my projects completed in the U of MN Web DEV bootcamp using REACT. [Visit the deployed site here!]( https://brendan838.github.io/REACT_Portfolio/
+)
 
 Technologies/languages used include REACT, JSX, HTML, CSS, Bootstrap, and Webpack. 
 
